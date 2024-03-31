@@ -1,1 +1,1 @@
-This is the github page for Portal: The Second Slice!
+This is the GitHub page for Portal: The Second Slice!
